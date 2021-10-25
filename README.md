@@ -4,7 +4,7 @@ FortiGate virtual appliances are capable of detecting and blocking threats using
 This template fully automates the deployment and configuration of a mesh of FortiGate IDS sensors connected to a FortiAnalyzer.
 
 ## Design
-
+![FortiGate IDS for GCP Design](https://lucid.app/publicSegments/view/5305e424-be22-4faa-9e62-d4b133d15a97/image.png)
 
 ## Configuration
 To use this Deployment Manager template you need to define your own configuration (YAML) file. A sample configuration is provided, but you have to modify it to point to your own resources. Unlike most of example configs published in this repository, this one will NOT work without customization.
